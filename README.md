@@ -11,3 +11,5 @@ This software was made in python and uses yt-dlp as a backbone.
 ### Compile
 
 * To compile the software from source you will need to run this command `pyinstaller -F -n YTDownloaderPro main.py`
+
+[CREDIT yt-dlp](https://github.com/yt-dlp/yt-dlp/)
